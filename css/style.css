@@ -35,4 +35,7 @@ div{
     grid-template: repeat(3, 3em) / repeat(3, 3fr);
     grid-auto-rows: 3em;
     grid-gap: 10px;
+    text-align: center;
+    vertical-align: middle;
+    line-height: 90px;
 }
